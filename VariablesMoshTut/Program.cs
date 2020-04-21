@@ -1,5 +1,8 @@
 ﻿using System;
 
+/* creating a branch with comments in it like this
+ in order to find out how braching works */
+
 namespace VariablesMoshTut
 {
     class Program
